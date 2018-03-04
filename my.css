@@ -1,0 +1,10 @@
+.flex-parent{
+ display:flex;
+ flex-direction:row;
+ justify-content:space-around;
+}
+.flex-parent>div{
+  background:pink;
+padding:2%;
+margin:2%;
+}

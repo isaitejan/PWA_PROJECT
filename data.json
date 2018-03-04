@@ -1,0 +1,40 @@
+{
+  "basics":{
+  "name":"saiteja",
+  "phone":"1234",
+"email":"saiteja@gmail.com"
+},
+"education":[{
+  "COURSE":"B.Tech(Computer Science Engineering)",
+  "college":"GEC",
+  "data":["2015-2019","85%","AUTONOMOUS"]
+},
+{
+"course":"Inter(mpc)",
+"college":"Narayana junior college",
+"data":["2013-2015","85%"]
+},
+{
+"course":"10th",
+"college":"Narayana",
+"data":["2012-2013","85%"]
+}],
+"skills":[
+  {
+    "name":"Languages known",
+    "info":["c","python","java","JavaScript"]
+  },
+  {
+    "name":"Operating Systems",
+    "info":["Linux","Windows","fedora","Unix"]
+  },
+  {
+    "name":"Libraries",
+    "info":["jQuert","Bootstrap"]
+  },
+  {
+    "name":"Data Bases",
+    "info":["mysql","pl/sql","mysqLite","Oracle"]
+  }
+]
+}

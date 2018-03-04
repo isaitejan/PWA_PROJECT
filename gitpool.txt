@@ -1,0 +1,23 @@
+git init
+
+git clone URL
+
+git add --a
+
+git config --global user.email "our.mail"
+
+git config --global user.name "github username
+
+git commit -am "add the file"
+
+git push origin master
+
+git add remote origin URL
+
+git branch branchname or git create -b branchname
+
+git checkout branchname
+
+git log 
+
+git checkout 8bits -i filename
